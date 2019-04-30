@@ -32,7 +32,7 @@ namespace GoogleVR.VideoDemo {
       videoSamples[1] = dashVideoSample;
       videoSamples[2] = panoVideoSample;
 
-      string NATIVE_LIBS_MISSING_MESSAGE = "Ambientes de teste para claustrofobia, escolha alguns dos ambientes deixando o ponto em cima por 5seg";
+      string NATIVE_LIBS_MISSING_MESSAGE = "Ambientes de teste para claustrofobia, escolha um dos ambientes deixando o ponto em cima por 5seg";
 
       if (missingLibText != null) {
         try {
